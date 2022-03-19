@@ -1,0 +1,8 @@
+KeyFile  = "/home/weizp/work/genesis_accounts_100.txt"
+Port= 7545
+Zookeeper    = "127.0.0.1:2181"
+Debug  = false
+Waits = 60
+Coinbase = "0x1a4c154c778e8f234d6dff415b6359c423f2f428"
+ProtocolVersion = 10002
+Hashrate = 998
